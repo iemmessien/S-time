@@ -1,1 +1,1 @@
-# S-time
+# S-timer
